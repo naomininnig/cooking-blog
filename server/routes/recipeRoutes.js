@@ -1,13 +1,13 @@
 const express = require('express');
 const router = express.Router();
-const recepieController = require('../controllers/recepieController');
+const recipeController = require('../controllers/recipeController');
 
 
 /**
  * App routes
  */
 
-router.get('/', recepieController.homepage);
+router.get('/', recipeController.homepage);
 
 
 

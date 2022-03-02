@@ -4,7 +4,7 @@
   </div>
    <div class="col-12 col-lg-6">
        <h1 class="display-5 fw-bold mb-3">
-           Huge selection of delicios recipe ideas
+           Huge selection of delicious recipe ideas
        </h1>
        <p class="lead">
            Explore our huge selection of delicious recipe ideas including: breakfest ideas, quick & easy , delicios vegan & vegetarien dinner ideas, gorgeous pasta, family-friendly meals and many more!
@@ -19,14 +19,27 @@
 <!-- Categories start-->
 
 <div class="row row-cols-2 row-cols-lg-6 g-2 g-lg-3 py-4">
- 
+
+    <% if(categories != ""){ %>
+        <% categories.forEach(function(category, index){ %>
+            <a href="#" class="col text-center category__link">
+                <div class="category__img shadow">
+                    <img src="/img/node_js_project/categories/<%- category.image %>" alt="<%- category.name %>" loading="lazy">
+                </div>
+                <div class="pt-1"><%- category.name %></div>
+            </a>
+        <% }) %>
+    <% } %>
+
+<!-- JUST TO REMEMBER WHAT CATEGORY YOU CREATED - WE NEED TO PUT IN THE DATABASE!!!
+    WE DONT NEED THESE LINES NO MORE :)
     <a href="#" class="col text-center category__link">
         <div class="category__img shadow">
             <img src="/img/node_js_project/bbq/burger-gef9cbf2b8_1920.jpg" alt="Categories-bbq" loading="lazy">
         </div>
         <div class="pt-1">Grill & BBQ</div>
-    </a>
-
+    </a> -->
+<!-- 
     <a href="#" class="col text-center category__link">
         <div class="category__img shadow">
             <img src="/img/node_js_project/breakfest/georgian-eggs-gf63a6d7f8_1920.jpg" alt="Categories-breakfest" loading="lazy">
@@ -53,7 +66,7 @@
             <img src="/img/node_js_project/desserts/creme-brulee-g434e311f3_1920.jpg" alt="Categories-desserts" loading="lazy">
         </div>
         <div class="pt-1">Dessert</div>
-    </a>
+    </a> -->
     <a href="/categories" class="col text-center category__link">
         <div class="category__img shadow">
             <img src="/img/node_js_project/starters/mussels-ge531b2b7c_1920.jpg" alt="Categories-view all" loading="lazy">
@@ -91,7 +104,7 @@
 
      <a href="/recepie/#" class="col text-center category__link">
         <div class="category__img category__img--large shadow">
-            <img src="/img/node_js_project/starters/spinach-g8fdd97dc0_1920.jpg" alt="Categories-latest-startes" loading="lazy">
+            <img src="/img/node_js_project/starters/spinach-g8fdd97dc0_1920.jpg" alt="Categories-latest-starters" loading="lazy">
         </div>
         <div class="pt-1">The Perfect Salad</div>
      </a>
@@ -116,8 +129,22 @@
 <!-- Submit start-->
 
 <section class="px-4 py-5 my-5 text-center">
+<<<<<<< HEAD
 <img src="" alt="" class="d-block mx-auto mb-4 img-fluid">
 
+=======
+
+    <img src="/img/node_js_project/share_2.jpg" class="d-block mx-auto mb-4 img-fluid" alt="Publish your recipe for FREE today" width="566" height="208" loading="lazy">
+    <h1 class="display-5 fw-bold">Publish your recipe for FREE today</h1>
+    <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">
+            Publish your Recipe in front of thousands of people for free
+        </p>
+        <dic class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <a href="/submit-recipe" class="btn btn-primary btn-dark btn-lg">Submit Recipe</a>
+        </dic>
+    </div>
+>>>>>>> 9531df99d405106ba8d76f001582ff626098bc6f
 </section>
 
 

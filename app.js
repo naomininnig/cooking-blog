@@ -13,7 +13,7 @@ app.use(expressLayouts);
 app.set('layout', './layouts/main');
 
 app.set('view engine', 'ejs');
-const routes = require('./server/routes/recepieRoutes')
+const routes = require('./server/routes/recipeRoutes')
 app.use('/', routes);
 
 app.listen(port, ()=> console.log(`Listening to port ${port}`));

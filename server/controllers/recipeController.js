@@ -25,7 +25,7 @@ exports.homepage = async(req, res) => {
     const snacks = await Recipe.find({ 'category': 'Snacks'}).limit(limitNumber);
     const starters = await Recipe.find({ 'category': 'Starters'}).limit(limitNumber);
     const breakfast = await Recipe.find({ 'category': 'Breakfast'}).limit(limitNumber);
-    const dessert = await Recipe.find({ 'category': 'Dessert'}).limit(limitNumber);
+    const dessert = await Recipe.find({ 'category': 'Desserts'}).limit(limitNumber);
 
 
     const food = { latest, bbq, mains, pasta, snacks, starters, breakfast, dessert };

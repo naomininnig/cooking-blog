@@ -92,7 +92,7 @@ async function insertDommyRecepiesData(){
            "3 tablespoons water"
         ],
         "category": "BBQ & Grill",
-        "image": "hamburger-gc60ea5c77_1920.jpg",
+        "image": "burger-gef9cbf2b8_1920.jpg",
       },
       {
         "name":"Hungarian goulash",
@@ -431,7 +431,117 @@ async function insertDommyRecepiesData(){
         "category": "Mains",
         "image": "chicken-g7fc1bd37e_1920.jpg",
       },
+      {
+        "name":"The ‘ultimate’ cheeseburgers",
+        "desc": `When you’re buying your chuck, don’t go for the lean variety – you want it to have a bit of fat as this will keep the burgers lovely and juicy as they cook. You’re not adding anything to the meat so make sure you work it well to create lovely patty shapes. Ask your butcher to mince the steak for you or just pulse it a few times in a food processor.
+        Put a pan on a high heat and add a lug of olive oil. Once hot, add the onion, turn the heat down to low and cook, stirring often, for 30 to 40 minutes, or until soft and sticky.
+        To make the flavoured mayo, simply empty the mayo into a bowl and whisk with the gentleman’s relish. Have a taste and add a squeeze or two of lemon juice.
+        Put a griddle pan or large frying pan on a high heat to get nice and hot. Divide the minced steak into 4 portions, then pat and shape each portion into a burger patty, about 2cm thick. Drizzle the burgers with a little olive oil then add to the hot griddle or frying pan. Turn the heat down to medium and cook for 6 to 8 minutes, or until nicely charred. Sprinkle them with a pinch of salt and pepper, then turn them over and use the thyme as a brush to coat the burgers with a little mustard. Lay a slice of cheese on each burger so it starts to melt. Cook for another 6 to 8 minutes. These timings will give you blushing burgers, but cook yours for a little longer if you prefer.
+        Meanwhile, put a large frying pan on a high heat and add your bacon. Cook for about 5 minutes, or until golden and crisp. Transfer it to a plate and carefully wipe the pan clean with a ball of kitchen paper. Toast the buns in the hot pan – you’ll need to do this in 2 batches.
+        Layer up the cheese burgers in the toasted buns with a dollop of flavoured mayo, the bacon and sticky onions. Serve with homemade French fries, salad and a few gherkins, if you like.,
+        Source: https://www.jamieoliver.com/recipes/beef-recipes/louie-and-gennaro-s-ultimate-cheeseburgers/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+            "olive oil",
+        "2 large onions , peeled and finely sliced",
+        "600 g quality minced chuck steak",
+        "sea salt",
+        "freshly ground black pepper",
+        "1 bunch fresh thyme , tied together",
+        "French's yellow mustard",
+        "4 thin slices good melting cheese, such as Cheddar",
+        "8 rashers higher-welfare smoked streaky bacon",
+        "4 sesame seed buns , halved",
+        "FOR THE MAYO",
+        "200 g low-fat mayonnaise , made with free-range eggs",
+        "2 teaspoons gentleman's relish",
+        "1 lemon",
+        ],
+        "category": "BBQ & Grill",
+        "image": "chad-montano--GFCYhoRe48-unsplash.jpg",
+        },
+        
+        {
+        "name":"Grilled Whole Fish",
+        "desc": `Step 1
+        Light a grill. Let the fish stand at room temperature for 20 minutes; pat dry with paper towels.
+        
+        Step 2
+        Brush the fish all over with olive oil and season generously inside and out with salt and pepper. Stuff the cavity with the parsley stems, garlic and lemon.
+        
+        Step 3
+        Brush the grate with oil. Grill the fish over moderately high heat, uncovered, until lightly charred and it releases easily from the grate, 10 minutes. Turn and grill until the flesh is white throughout, 10 minutes longer. Transfer the fish to a platter and let stand for 10 minutes. Drizzle with oil and serve. 
+        Source: https://www.foodandwine.com/recipes/grilled-whole-fish`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+            "One 2-pound fish, such as branzino, red snapper or sea bass, cleaned and scaled",
+            "Extra-virgin olive oil, for brushing and drizzling",
+             "Salt",
+            "Freshly ground pepper",
+            "4 parsley stems",
+            "1 crushed garlic clove",
+            "2 halved lemon slices"
+        ],
+        "category": "BBQ & Grill",
+        "image": "fish-ga7f757138_1920.jpg",
+        },
+        
+        {
+        "name":"Philly-style cheese dogs",
+        "desc": ` STEP 1
+        Heat oven to 220C/200C fan/gas 7. Put the chipolatas, peppers, onion and garlic in a large roasting tin and roast for 25-30 mins or until the sausages are cooked through and the vegetables are starting to caramelise. Gently shake the tin a few times during cooking to help everything to roast evenly.
+        
+        STEP 2
+        When the sausages are almost cooked, warm the cheese sauce following pack instructions and put the rolls in the oven for 4-5 mins to warm through.
+        
+        STEP 3
+        Take the sausages and vegetables out of the oven. Lightly crush the garlic cloves with the back of a spoon to release the cooked garlic, discard the skin and give everything a stir. Season and cut a slit in the rolls, then pile in the sausages, veg and garlic. Spoon in the cheese sauce and serve immediately.
+        Source: https://www.bbcgoodfood.com/recipes/philly-style-cheese-dogs`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+            "12 chipolatas",
+        "2 green peppers , sliced",
+        "1 onion , cut into wedges",
+        "3 garlic cloves , unpeeled",
+        "230g pack ready-made cheese sauce",
+        "4 large hot dog buns (we used submarine rolls)"
+        ],
+        "category": "BBQ & Grill",
+        "image": "hot-dog-ga992a902d_1920.jpg",
+        },
 
+{
+  "name":"Grilled Veggie Skewers",
+  "desc": `
+  Step 1
+  Soak skewers in water for 10 to 20 minutes.
+  
+  Step 2
+  Preheat grill for medium heat and lightly oil the grate. Alternately thread zucchini slices, yellow squash slices, mushrooms, onion, tomatoes, pineapple, and bell pepper onto the skewers.
+  
+  Step 3
+  Whisk olive oil, basil, oregano, salt, and black pepper in a bowl; brush mixture over vegetables.
+  
+  Step 4
+  Cook skewers on preheated grill until vegetables are tender, turning and basting vegetables with olive oil mixture occasionally, 10 to 15 minutes. 
+  Source: https://www.allrecipes.com/recipe/229166/grilled-veggie-skewers/`,
+  "email": "naomi.ninnig@gmail.com", 
+  "ingredients": [
+     "8 wooden or bamboo skewers",
+  "2 medium zucchinis, cut into 1-inch slices",
+  "2 medium yellow squash, cut into 1-inch slices",
+  "½ pound whole fresh mushrooms",
+  "1 medium red onion, cut into chunks",
+  "12 cherry tomatoes",
+  "1 fresh pineapple, cut into chunks",
+  "1 medium red bell pepper, cut into chunks",
+  "⅓ cup olive oil",
+  "1 ½ teaspoons dried basil",
+  "¾ teaspoon dried oregano"
+  ],
+  "category": "BBQ & Grill",
+  "image": "vegetable-skewer-ge53418ac1_1920.jpg",
+  },
 
 
          

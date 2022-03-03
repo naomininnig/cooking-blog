@@ -67,7 +67,7 @@
       </a> -->
       <a href="/categories" class="col text-center category__link">
           <div class="category__img shadow">
-              <img src="/img/node_js_project/starters/mussels-ge531b2b7c_1920.jpg" alt="Categories-view all" loading="lazy">
+              <img src="/img/node_js_project/mains/roast-goose-g00e051a48_1920.jpg" alt="Categories-view all" loading="lazy">
           </div>
           <div class="pt-1">View All</div>
       </a>
@@ -88,9 +88,9 @@
     <% if(food != '') { %>
        <% food.latest.forEach(function(recipe, index) { %>
 
-       <a href="/recepie/<%= recipe._id %>" class="col text-center category__link">
+       <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
           <div class="category__img category__img--large shadow">
-              <img src="/uploads/img/<%= recipe.image %> " alt="<%= recipe.name %>" loading="lazy">
+              <img src="/uploads/<%= recipe.image %> " alt="<%= recipe.name %>" loading="lazy">
           </div>
           <div class="pt-1"><%= recipe.name %></div>
        </a>

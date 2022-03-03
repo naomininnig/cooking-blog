@@ -298,31 +298,31 @@ async function insertDommyRecepiesData(){
         // "category": " Startes",
         // "image": "mussels-ge531b2b7c_1920 "
         // },
-        {
-        "name": "Tomato soup ",
-        "desc": `  Peel and roughly slice the carrots, slice the celery, and peel and roughly chop the onions. Peel and slice the garlic.
-        Heat 2 tablespoons of oil in a large pan over a medium heat, add all the prepped ingredients, then cook with lid ajar for 10 to 15 minutes, or until softened.
-        Crumble the stock cubes into a jug, cover with1.5 litres of boiling water, and stir until dissolved.
-        Add the stock to the veg pan with tinned and fresh whole tomatoes, including the green stalks that may still be attached to some of them (these give an amazing flavour – trust me!).
-        Give it a good stir and bring to the boil, then reduce to a simmer for 10 minutes with the lid on. Meanwhile, pick your basil leaves.
-        Remove the pan from the heat. Season to taste with sea salt and black pepper, then stir through the basil leaves.
-        Using a stick blender or liquidizer, pulse the soup until smooth. Taste and check the seasoning, then serve. ,
-        Source:    https://www.jamieoliver.com/recipes/vegetables-recipes/tomato-soup/  `,
-        "email": "naomi.ninnig@gmail.com", 
-        "ingredients": [
-        "2 carrots",
-        "2 sticks of celery",
-        "2 medium onions",
-        "2 cloves of garlic",
-        "olive oil",
-        "2 organic reduced-salt chicken or vegetable stock cubes",
-        "2 x 400 g tins of quality plum tomatoes",
-        "6 large ripe tomatoes",
-        "½ a bunch of fresh basil (15g)"
-        ],
-        "category": " Starters",
-        "image": "soup-g8f76f1f33_1920 "
-        }
+        // {
+        // "name": "Tomato soup ",
+        // "desc": `  Peel and roughly slice the carrots, slice the celery, and peel and roughly chop the onions. Peel and slice the garlic.
+        // Heat 2 tablespoons of oil in a large pan over a medium heat, add all the prepped ingredients, then cook with lid ajar for 10 to 15 minutes, or until softened.
+        // Crumble the stock cubes into a jug, cover with1.5 litres of boiling water, and stir until dissolved.
+        // Add the stock to the veg pan with tinned and fresh whole tomatoes, including the green stalks that may still be attached to some of them (these give an amazing flavour – trust me!).
+        // Give it a good stir and bring to the boil, then reduce to a simmer for 10 minutes with the lid on. Meanwhile, pick your basil leaves.
+        // Remove the pan from the heat. Season to taste with sea salt and black pepper, then stir through the basil leaves.
+        // Using a stick blender or liquidizer, pulse the soup until smooth. Taste and check the seasoning, then serve. ,
+        // Source:    https://www.jamieoliver.com/recipes/vegetables-recipes/tomato-soup/  `,
+        // "email": "naomi.ninnig@gmail.com", 
+        // "ingredients": [
+        // "2 carrots",
+        // "2 sticks of celery",
+        // "2 medium onions",
+        // "2 cloves of garlic",
+        // "olive oil",
+        // "2 organic reduced-salt chicken or vegetable stock cubes",
+        // "2 x 400 g tins of quality plum tomatoes",
+        // "6 large ripe tomatoes",
+        // "½ a bunch of fresh basil (15g)"
+        // ],
+        // "category": " Starters",
+        // "image": "soup-g8f76f1f33_1920 "
+        // }
     ]);
   }catch(error) {
     console.log('err', + error);

@@ -11,7 +11,24 @@ exports.homepage = async(req, res) => {
     const categories = await Category.find({}).limit(limitNumber)
     const latest = await Recipe.find({}).sort({_id: -1}).limit(limitNumber);
     
-    const food = { latest };
+    //Declaring all Categories:
+    //1. bbq - 'BBQ & Grill'
+    //2 mains - 'Mains'
+    //3 pasta - 'Pasta'
+    //4. snacks - 'Snacks'
+    //5. starters - 'Starters
+    //6. breakfast - 'Breakfast'
+    //7.dessert - 'Dessert'
+    const bbq = await Recipe.find({ 'category': 'BBQ & Grill'}).limit(limitNumber);
+    const mains = await Recipe.find({ 'category': 'Mains'}).limit(limitNumber);
+    const pasta = await Recipe.find({ 'category': 'Pasta'}).limit(limitNumber);
+    const snacks = await Recipe.find({ 'category': 'Snacks'}).limit(limitNumber);
+    const starters = await Recipe.find({ 'category': 'Starters'}).limit(limitNumber);
+    const breakfast = await Recipe.find({ 'category': 'Breakfast'}).limit(limitNumber);
+    const dessert = await Recipe.find({ 'category': 'Dessert'}).limit(limitNumber);
+
+
+    const food = { latest, bbq, mains, pasta, snacks, starters, breakfast, dessert };
 
     res.render('index', {title: ' Cooking Blog | Home', categories, food});
   } catch (error) {

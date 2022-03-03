@@ -47,35 +47,28 @@ exports.exploreRecipe = async(req, res) => {
 }
 
 
-// async function insertDommyRecepiesData(){
-//   try{
-//     await Recipe.insertMany([
-
-//       {
-
-
-//       },
+//async function insertDommyRecepiesData(){
+   //try{
+     //await Recipe.insertMany([
+      //{
+        //"name":"",
+        //         "desc": ` `,
+        //         "email": "naomi.ninnig@gmail.com", 
+        //         "ingredients": [
+                  
+        //         ],
+        //         "category": "",
+        //         "image": "",
+              // },
         
 
          
-//     ]);
-//   }catch(error) {
-//     console.log('err', + error);
-//   }
-// }
-// insertDommyRecepiesData();
+     //]);
+  // }catch(error) {
+   //  console.log('err', + error);
+   //}
+ //}
+ //insertDommyRecepiesData();
 
-/*
 
-{
-        "name":"",
-        "desc": ` `,
-        "email": "naomi.ninnig@gmail.com", 
-        "ingredients": [
-          
-        ],
-        "category": "",
-        "image": "",
-      },
 
-      */

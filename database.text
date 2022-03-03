@@ -1,53 +1,503 @@
 
 
 {
-"name":"",
-"desc": ` `,
+"name":"Best ever chocolate brownies recipe",
+"desc": `Step 1
+Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.
+
+Step 2
+In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan.
+
+Step 3
+Bake in preheated oven for 25 to 30 minutes. Do not overcook.
+
+Step 4
+To Make Frosting: Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth. Frost brownies while they are still warm. 
+Source: https://www.allrecipes.com/recipe/10549/best-brownies/`,
 "email": "naomi.ninnig@gmail.com", 
 "ingredients": [
    " ½ cup butter",
+   "1 cup white sugar",
+   "2 eggs",
+   "1 teaspoon vanilla extract",
+   "⅓ cup unsweetened cocoa powder",
+   "½ cup all-purpose flour",
+   "¼ teaspoon salt"
+   "¼ teaspoon baking powder"
+  ],
+   "category": "Desserts",
+   "image": "chocolate-brownies-g8a2b39bec_1920.jpg",
+   },
 
-"1 cup white sugar",
 
-"2 eggs"
+Mains
 
-"1 teaspoon vanilla extract"
 
-"⅓ cup unsweetened cocoa powder"
-
-"½ cup all-purpose flour"
-
-"¼ teaspoon salt"
-
-"¼ teaspoon baking powder"
-],
-"category": "",
-"image": "",
-},
-{
-"name":"",
-"desc": ` `,
+   {
+"name":"easy chicken curry",
+"desc": ` 
+    Peel and slice the onion. Peel the ginger and garlic, then finely chop or grate them on a microplane.
+    Heat a lug of oil in a large pan over a medium heat, add the onions and cook for around 8 minutes, or until softened and slightly golden, stirring regularly. Add the ginger and garlic cook for a further 2 minutes.
+    Meanwhile, mix the tikka masala paste, yoghurt and tomato purée together in a bowl. Halve and add the chicken thighs to the bowl. Stir everything together and get all the chicken covered in the paste mixture.
+    Scrape everything into the pan, making sure you get all the paste mixture in there. Cook the chicken for 5 minutes or so, or until you see it start to colour.
+    Add the tinned tomatoes, drained lentils and coconut milk. Bring to the boil, reduce the heat and simmer for 1 hour, stirring occasionally. Add splashes of water to loosen, if needed.
+    When the time’s up, stir in the spinach (if using) and allow it to wilt. Next add the mango chutney and taste for seasoning.
+    Pull the chicken apart with forks and stir it through. Serve with wholemeal basmati rice and yoghurt on the side, if you like.
+    Source : https://www.jamieoliver.com/recipes/chicken-recipes/jools-easy-chicken-curry/
+`,
 "email": "naomi.ninnig@gmail.com", 
 "ingredients": [
+    "1 onion",
+    "4cm piece of ginger"
+    "2 cloves of garlic"
+    "olive oil"
+    "2 tablespoons tikka masala paste"
+    "3 tablespoons natural yoghurt"
+    "2 tablespoons tomato purée"
+    "8 skinless free-range chicken thighs"
+    "1 x 400 g tin of chopped tomatoes"
+    "1 x 400 g tin of green lentils"
+    "1 x 400 g tin of light coconut milk"
+    "2 handfuls of baby spinach , optional"
+    "2 tablespoons quality mango chutney"
 ],
-"category": "",
-"image": "",
+"category": "Mains",
+"image": "chicken-6183148_1920.jpg",
 },
+
 {
-"name":"",
-"desc": ` `,
+"name":"Steaming ramen",
+"desc": ` 
+    To make the soy sauce eggs, boil the eggs for 5 minutes, then refresh in cold water and peel.
+    Pour the soy sauce and 250ml of water into a small pan with the mirin and star anise. Peel, slice and add the ginger and garlic, then bring to the boil, remove from the heat, leave to cool and pour into a sandwich bag with the eggs.
+    Squeeze out the air, seal, and pop into the fridge for 6 hours, then drain (this is important).
+    Preheat the oven to 200°C/400°F/gas 6.
+    Put the chicken wings and pork bones into a large casserole pan. Bash and add the unpeeled ginger and garlic, then toss with a good drizzle of sesame oil.
+    Put the pork skin on a baking tray and place both tray and casserole pan in the oven for around 40 minutes, or until the skin is perfectly crackled, then remove for garnish.
+    This is also the perfect time to transfer the casserole pan to the hob, adding in the pork belly and miso. Cover with 3 litres of water, bring to the boil, then simmer gently on a low heat for around 3 hours, or until the pork belly is beautifully tender, skimming the surface occasionally.
+    Lift the pork belly onto a tray and put aside, then sieve the broth and pour back into the pan. Return to the heat and reduce the liquid down to around 2.5 litres.
+    While doing this, put a large colander over the pan and steam the spinach until it’s wilted. Let it cool, then squeeze out the excess moisture and divide into 8.
+    In a separate pan, cook the noodles according to packet instructions, then drain and divide between 8 large warm bowls with the beansprouts and spinach.
+    Slice and divide up the pork, then halve the eggs and place around the bowls. Trim the spring onions, finely slice with the chilli, and sprinkle between the bowls.
+    Taste the broth and season with soy sauce, then ladle the steaming broth over everything.
+    Tear over the seaweed and divide up the kimchee. Drizzle with chilli oil, then break over the crackling. Slurp away!
+    Source: https://www.jamieoliver.com/recipes/pork-recipes/steaming-ramen/
+`,
 "email": "naomi.ninnig@gmail.com", 
 "ingredients": [
+    "8 higher-welfare chicken wings",
+    "1 handful of pork bones , (ask your butcher)",
+    "750 g higher-welfare pork belly , (skin removed and reserved)",
+    "2 thumb-sized pieces of ginger",
+    "5 cloves of garlic",
+    "sesame oil",
+    "1 heaped tablespoon miso paste",
+    "400 g baby spinach",
+    "500 g dried soba or ramen noodles",
+    "8 small handfuls of beansprouts , (ready to eat)",
+    "8 spring onions",
+    "1–2 fresh red chilles",
+    "2 sheets of wakame seaweed",
+    "8 tablespoons kimchee",
+    "chilli oil",
+    "For the soy sauce eggs:",
+    "4 large free-range eggs",
+    "200 ml low-salt soy sauce",
+    "1 splash of mirin",
+    "4 star anise",
+    "1 thumb-sized piece of ginger",
+    "2 cloves of garlic"
 ],
-"category": "",
-"image": "",
+"category": "Mains",
+"image": "ramen-6600808_1920.jpg",
 },
+
 {
-"name":"",
-"desc": ` `,
+"name":"Good old chilli con carne",
+"desc": `
+    Peel and finely chop the onions, garlic, carrots and celery – don’t worry about the technique, just chop away until fine. Halve the red peppers, remove the stalks and seeds and roughly chop.
+    Heat 2 tablespoons of oil in a large casserole pan on a medium-high heat, add the chopped veg, chilli powder, cumin, cinnamon and a good pinch of sea salt and black pepper, then cook for 7 minutes, or until softened, stirring regularly.
+    Drain and add the chickpeas and kidney beans, tip in the tomatoes, breaking them up with the back of a spoon, then pour in 1 tin's worth of water. Add the minced beef, breaking any larger chunks.
+    Pick the coriander leaves and put aside, then finely chop and add the stalks to the pan, with the balsamic vinegar. Season with a good pinch of sea salt and black pepper.
+    Bring to the boil, then reduce the heat to low and simmer with a lid slightly ajar for 1 hour, or until slightly thickened and reduced, stirring occasionally.
+    Serve up with fluffy rice or couscous, a hunk of crusty bread, or over a jacket potato, with some yoghurt, guacamole, and wedges of lime on the side for squeezing over. Sprinkle over the reserved coriander, and some fresh chilli, if you like, then tuck in.
+    Source: https://www.jamieoliver.com/recipes/beef-recipes/good-old-chilli-con-carne/
+ `,
 "email": "naomi.ninnig@gmail.com", 
 "ingredients": [
+    "2 medium onions",
+    "2 cloves garlic",
+    "2 medium carrots",
+    "2 sticks celery",
+    "2 red peppers",
+    "olive oil",
+    "1 heaped teaspoon chilli powder",
+    "1 heaped teaspoon ground cumin",
+    "1 heaped teaspoon ground cinnamon",
+    "1 x 400 g tin of chickpeas",
+    "1 x 400 g tin of red kidney beans",
+    "2 x 400 g tin of chopped tomatoes",
+    "500 g quality minced beef",
+    "½ a bunch of fresh coriander (15g)",
+    "2 tablespoons balsamic vinegar"
 ],
-"category": "",
-"image": "",
+"category": "Mains",
+"image": "artur-kornakov-kwJhh14nUcs-unsplash.jpg",
 },
+
+pasta
+      {
+        "name":"Easy Pasta Salad",
+        "desc": `  Step 1
+        In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain.
+
+        Step 2
+        Whisk together the salad spice mix and Italian dressing.
+
+        Step 3
+        In a salad bowl, combine the pasta, cherry tomatoes, bell peppers and olives. Pour dressing over salad; toss and refrigerate overnight.
+        Source https://www.allrecipes.com/recipe/14385/pasta-salad/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+          "1 pound tri-colored spiral pasta",
+          "6 tablespoons salad seasoning mix",
+          "1 (16 ounce) bottle Italian-style salad dressing",
+          "2 cups cherry tomatoes, diced",
+          "1 green bell pepper, chopped",
+          "1 red bell pepper, diced",
+          "½ yellow bell pepper, chopped",
+          "1 can black olives, chopped" 
+        ],
+        "category": "Pasta",
+        "image": "food-ga5f67a087_1920.jpg",
+      },
+      {
+        "name":"Hungover noodles",
+        "desc": ` 
+    Peel the ginger and garlic and finely grate into a large bowl.
+    Add the soy sauce, vinegar, sesame oil and a pinch of black pepper, then mix to make a dressing.
+    Trim and shred the cabbage and put it into a large pan of boiling salted water with the broccoli (cut into florets first, if using fresh) and noodles to cook for around 3 minutes, then add the mangetout for a final minute.
+    Drain it all well, then toss in the bowl of dressing.
+    Fry the eggs in a large non-stick frying pan on a medium heat with a lug of olive oil until cooked to your liking (I like mine with a runny yolk).
+    Divide the noodles between bowls, pop an egg on top of each one, and serve drizzled with chilli sauce for that all-important added kick.
+    Source: https://www.jamieoliver.com/recipes/vegetables-recipes/hungover-noodles/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+    "5 cm piece of ginger",
+    "1 clove of garlic",
+    "2 tablespoons low-salt soy sauce",
+    "3 tablespoons rice wine vinegar",
+    "3 tablespoons sesame oil",
+    "1 Chinese cabbage",
+    "500 g fresh or frozen broccoli",
+    "250 g medium egg noodles",
+    "200 g mangetout",
+    "4 large free-range eggs",
+    "olive oil",
+    "hot chilli sauce , to serve",
+        ],
+        "category": "Pasta",
+        "image": "noodle-gd7620714d_1920.jpg",
+      },
+
+      {
+        "name":"Family spaghetti Bolognese",
+        "desc": ` 
+
+    On a chopping board, peel and finely chop the onions, garlic and carrots, then trim and finely chop the celery.
+    Pick and finely chop the rosemary leaves, then finely slice the bacon or pancetta.
+    Put a large saucepan on a medium-high heat and add 1 tablespoon olive oil.
+    Add the bacon, rosemary, garlic and veg, then cook with the lid ajar for 10 to 15 minutes, or until softened and just turning golden, stirring occasionally.
+    Stir in the mince, turn the heat up to high and cook for 5 to 10 minutes, or until browned all over,stirring and breaking it up with a spoon as you go.
+    Add the tomatoes, tomato purée, vinegar and bay leaves.
+    Fill and boil the kettle.
+    Crumble in the stock cube and pour in 400ml boiling water.
+    Stir well, turn the heat up to high and bring to the boil.
+    Season with pepper, reduce to a low heat, then cover and simmer for around 1 hour, stirring occasionally.
+    Remove the lid and continue cooking for 15 to 20 minutes, or until thickened and reduced. Meanwhile...
+    Re-fill and boil the kettle.
+    Carefully fill a large pot three quarters of the way up with boiling water, add a tiny pinch of salt and bring back to the boil.
+    Add the spaghetti and cook according to packet instructions – you want to cook your pasta until it is al dente. This translates as ‘to the tooth’ and means that it should be soft enough to eat, but still have a bit of a bite and firmness to it. Use the timings on the packet instructions as a guide, but try some just before the time is up to make sure it’s perfectly cooked.
+    Using a microplane, finely grate the Parmesan cheese onto a clean chopping board (if using).
+    Once the spaghetti is done, ladle out and reserve a cup of cooking water and keep it to one side, then drain in a colander over the sink.
+    Taste the Bolognese sauce and season with a little more pepper or vinegar, if you think it needs it.
+    Carefully pick out and discard the bay leaves.
+    Put half the sauce into a container, leave to cool, then freeze for another day.
+    Stir the spaghetti into the remaining sauce, adding a splash of pasta water to loosen, if needed.
+    Divide between bowls and sprinkle with Parmesan cheese (if using), then serve.
+    Source:https://www.jamieoliver.com/recipes/pasta-recipes/family-spaghetti-bolognese/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+    "3 red onions",
+    "2 cloves of garlic",
+    "3 carrots",
+    "3 sticks of celery",
+    "2 sprigs of fresh rosemary",
+    "2 rashers of higher-welfare smoked streaky bacon , or pancetta",
+    "olive oil",
+    "500 g lean beef mince",
+    "1 x 400 g tin of quality chopped tomatoes",
+    "1 tablespoon tomato purée",
+    "1 tablespoon balsamic vinegar , or red wine vinegar",
+    "3 fresh bay leaves",
+    "1 organic low-salt beef stock cube",
+    "500 g dried spaghetti",
+    "40 g Parmesan cheese , optional"
+        ],
+        "category": "Pasta",
+        "image": "pasta-g81d02b0f4_1920.jpg",
+      },
+
+      {
+        "name":"Classic spaghetti carbonara",
+        "desc": ` 
+
+    Put the egg yolks into a bowl, finely grate in the Parmesan, season with pepper, then mix well with a fork and put to one side.
+    Cut any hard skin off the pancetta and set aside, then chop the meat.
+    Cook the spaghetti in a large pan of boiling salted water until al dente.
+    Meanwhile, rub the pancetta skin, if you have any, all over the base of a medium frying pan (this will add fantastic flavour, or use 1 tablespoon of oil instead), then place over a medium-high heat.
+    Peel the garlic, then crush with the palm of your hand, add it to the pan and leave it to flavour the fat for 1 minute. Stir in the pancetta, then cook for 4 minutes, or until it starts to crisp up.
+    Pick out and discard the garlic from the pan, then, reserving some of the cooking water, drain and add the spaghetti. Toss well over the heat so it really soaks up all that lovely flavour, then remove the pan from the heat.
+    Add a splash of the cooking water and toss well, season with pepper, then pour in the egg mixture – the pan will help to cook the egg gently, rather than scrambling it. Toss well, adding more cooking water until it’s lovely and glossy.
+    Serve with a grating of Parmesan and an extra twist of pepper.
+
+    Source: https://www.jamieoliver.com/recipes/pasta-recipes/gennaro-s-classic-spaghetti-carbonara/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+    "3 large free-range egg yolks",
+    "40 g Parmesan cheese , plus extra to serve",
+    "1 x 150 g piece of higher-welfare pancetta",
+    "200 g dried spaghetti",
+    "1 clove of garlic",
+    "extra virgin olive oil"
+        ],
+        "category": "Pasta",
+        "image": "pasta-gdd11254b4_1920.jpg",
+      },
+
+
+      snacks
+
+      {
+        "name":"Crisp chicken burgers with lemon mayo",
+        "desc": `     STEP 1
+Heat grill to high. Put the chicken breasts between 2 pieces of cling film and bash with a rolling pin until they’re about half their original thickness. Whizz the toast in a food processor to rough breadcrumbs, then tip out onto a plate.
+
+    STEP 2
+    Beat the egg and mustard together in a bowl and season. Dip the chicken into the egg, let the excess drip back into the bowl, then press into the toasty breadcrumbs. Put under the grill on a flat baking sheet and grill for about 10 mins, turning once, until golden and crisp on both sides and the chicken is cooked through.
+
+    STEP 3
+    Beat the lemon zest, juice and lots of black pepper into the mayonnaise. Spread some of the mayo onto the bottom halves of the buns, top with a chicken breast and salad of your choice and serve.Source: https://www.bbcgoodfood.com/recipes/crisp-chicken-burgers-lemon-mayo`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+              "4 chicken breasts",
+    "3 slices white bread , toasted",
+    "1 egg",
+    "1 tsp Dijon mustard",
+    "zest 1 lemon , juice from ½",
+    "4 tbsp reduced-fat mayonnaise",
+    "4 ciabatta buns, warm or toasted"
+        ],
+        "category": "Snacks",
+        "image": "chicken-burger-g4212699a2_1920.jpg",
+      },
+
+      {
+        "name":"Garlic and Herb Fries",
+        "desc": `     Step 1
+    Preheat the oven to 400℉ and line a pan with parchment paper.
+
+    Step 2
+    Slice each potato into 8 wedges and lay evenly on the prepared baking sheet.
+
+    Step 3
+    In a small bowl, whisk together oil, garlic, herbs, salt and pepper. Drizzle this mixture over the potatoes. Toss the potatoes until well coated and spread into an even layer again.
+
+    Step 4
+    Bake for 20-25 minutes or until crispy and golden. Serve with a sprinkle of herbs and tzatziki sauce.
+    Source: https://thefeedfeed.com/thehungrywarrior/garlic-and-herb-fries`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+              "10 small potatoes",
+    "3 tablespoons olive oil",
+    "3 tablespoons mixed chopped herbs, such as like basil and oregano",
+    "2 cloves garlic, minced",
+    "Salt and pepper",
+    "(Vegan) tzatziki sauce, optional"
+        ],
+        "category": "Snacks",
+        "image": "french-fries-g0a100b54a_1920.jpg",
+      },
+
+      {
+        "name":"Vegan Stuffed Mushrooms",
+        "desc": ` Step 1
+Soak cashews in water for 1 to 2 hours. Drain.
+
+Step 2
+Blend cashews with 1 cup water until creamy. Add 1 to 2 tablespoons more water if needed to blend well.
+
+Step 3
+Preheat the oven to 350 degrees F (175 degrees C). Spray a baking sheet with cooking spray.
+
+Step 4
+Clean mushrooms with a damp paper towel. Carefully break off stems and reserve the caps. Chop stems very finely, discarding tough ends.
+
+Step 5
+Heat oil in a large skillet over medium heat. Add chopped mushroom stems and garlic to the skillet. Fry until any moisture has disappeared, taking care not to burn garlic, about 3 minutes. Set aside to cool.
+
+Step 6
+Stir cashew cream, nutritional yeast, salt, black pepper, onion powder, and cayenne pepper into the cooled mushroom mixture. Use a little spoon to fill each mushroom cap with a generous amount of stuffing. Arrange the mushroom caps on the prepared baking sheet.
+
+Step 7
+Bake in the preheated oven until mushrooms are piping hot and liquid starts to form under the caps, about 20 minutes.
+Source: https://www.allrecipes.com/recipe/268508/vegan-stuffed-mushrooms/ `,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+          "1 cup raw cashews",
+"1 cup water, or more as needed",
+"12 whole fresh mushrooms",
+"cooking spray",
+"1 tablespoon vegetable oil",
+"1 tablespoon minced garlic",
+"¼ cup nutritional yeast",
+"1 teaspoon salt",
+"¼ teaspoon ground black pepper",
+"¼ teaspoon onion powder",
+"¼ teaspoon ground cayenne pepper",
+        ],
+        "category": "Snacks",
+        "image": "mushroom-gd478bad76_1920.jpg",
+      },
+
+      {
+        "name":"Basic pizza",
+        "desc": ` 
+
+    For the dough, pile the flours and 1 level teaspoon of sea salt onto a clean surface and make a well in the centre.
+    Add the yeast and sugar to 650ml lukewarm water, mix together and leave for a few minutes, then pour into the well.
+    Using a fork and a circular movement, slowly bring in the flour from the inner edge of the well and mix into the water. Continue to mix, bringing in all the flour – when the dough comes together and becomes too hard to mix with your fork, flour your hands and begin to pat it into a ball.
+    Knead the dough by rolling it backwards and forwards, using your hands to stretch, pull and push the dough. Keep kneading for 10 minutes, or until you have a smooth, springy, soft dough.
+    Place the dough in a lightly greased bowl, cover with clingfilm and leave in a warm place to to prove for 45 minutes, or until doubled in size.
+    For the sauce, peel and finely slice the garlic, then pick the basil leaves and finely chop the stalks.
+    Heat 1 tablespoon of oil in a pan on a medium-low heat, add the garlic and basil stalks, then cook gently for a couple of minutes, or until the garlic is lightly golden, then add most of the basil leaves, the tomatoes, and a pinch of salt and pepper.
+    Leave the sauce to tick away for around 20 minutes, or until smooth, breaking up the tomatoes up with a wooden spoon. When the time’s up, taste, and season to perfection.
+    To assemble the pizzas, divide the dough in half. Wrap one half in clingfilm and freeze for another day. With the remaining half, divide the dough into 4 equal balls.
+    Flour each dough ball, then cover with clingfilm, and leave to rest for about 15 minutes – this will make them easier to roll it thinly.
+    Dust a clean surface and the dough with a little flour or semolina, and roll it out into a rough circle, about ½cm thick.
+    Tear off an appropriately sized piece of tin foil, rub it with olive oil, dust well with flour or semolina and place the pizza base on top. Continue doing the same with the remaining dough, dust with a little flour so you can pile them up. Cover with clingfilm and place in the fridge.
+    When you're ready to cook them, preheat the oven to 250°C/500°F/gas 9.
+    At this stage you can apply your topping: spread the tomato sauce over the base, spreading it out to the edges. Tear over the mozzarella and scatter with the remaining basil leaves. Drizzle with a tiny bit of olive oil and add a pinch of salt and pepper.
+    If you can, cook the pizzas on a piece of granite in your conventional oven – if not, cook them one by one on pieces of tin foil directly on the bars of the oven shelf, towards the bottom of the oven (If you're going to cook your pizzas on the bars of the oven, make sure they're not too big – otherwise they'll be difficult to manoeuvre). Cook for 7 to 10 minutes, until the pizzas are golden and crispy.
+    Here are some of my favourite topping ideas:
+    Mozzarella, anchovies, chilli, capers and parsley
+    Smoked pancetta, mozzarella, fresh chilli and tomatoes
+    Egg, prosciutto, artichokes, olives, mozzarella, tomato sauce and basil
+    Green and red grapes, rosemary, pine nuts and ricotta
+    Potatoes, mozzarella, rosemary, thyme and tomatoes
+    Slow-roasted shredded pork with thyme, Taleggio and lemon-dressed rocket
+   Source: https://www.jamieoliver.com/recipes/bread-recipes/basic-pizza/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+           "800 g strong white bread flour",
+"200 g fine ground semolina flour or strong white bread flour",
+"1 level teaspoon fine sea salt",
+"2 x 7 g sachets of dried yeast",
+"1 tablespoon golden caster sugar",
+"TOMATO SAUCE (4 PIZZAS)",
+"1 clove of garlic",
+"1 bunch of fresh basil",
+"olive oil",
+"1 x 400 g tin of quality plum tomatoes",
+"TOPPING (4 PIZZAS)",
+"85 g mozzarella cheese"
+        ],
+        "category": "Snacks",
+        "image": "pizza-g77c6a5079_1920.jpg",
+      },
+
+      starters
+      {
+        "name":"Bruschetta with tomato & basil",
+        "desc": `
+    Slice the bread 1cm-thick, then toast on a barbecue or griddle pan.
+    Rub each slice lightly with a cut clove of garlic, then drizzle with some good extra virgin olive oil and sprinkle lightly with a little sea salt and black pepper.
+    Remove the cores from the tomatoes, carefully squeeze out the seeds, then place in a bowl.
+    Tear in the basil leaves, season with salt and pepper, then toss with a good lug of oil and a good swig of vinegar, to balance the flavours.
+    Serve the tomatoes either chunky or finely chopped, or you can scrunch them between your fingers before putting them on your bruschette – really tasty.
+    Source: https://www.jamieoliver.com/recipes/bread-recipes/bruschetta-with-tomato-and-basil/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+    "1 small loaf of sourdough bread",
+    "1 clove of garlic",
+    "2 handfuls of nice mixed-colour ripe tomatoes",
+    "½ a bunch of fresh basil",
+    "quality herb or white wine vinegar"
+        ],
+        "category": "Starters",
+        "image": "bruschetta-g0364eeb16_1920.jpg",
+      },
+      {
+        "name":"Baked Figs with Goat Cheese",
+        "desc": `Preheat the oven to 200 °C or 390 °F. Cut off the stems and make an X cut in the top of each fig half way through.
+    Stuff the figs with soft goat cheese using a teaspoon. Sprinkle some chopped walnuts and sage over your stuffed figs and drizzle them with honey. Add salt and freshly ground black pepper to taste. I used Le Creuset rectangular baking dish for this recipe and it was just the right size.
+    Broil for about 5 minutes or until they look soft and release juice. Serve them warm or cold with a glass of wine. Enjoy!
+    Source: https://happykitchen.rocks/baked-figs-goat-cheese/`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+          "6 medium-sized figs",
+           "80 grams or 2.8 oz soft goat cheese",
+          "2 tablespoons chopped walnuts",
+          "1 tablespoon chopped sage",
+          "2 tablespoons honey",
+          "salt and freshly ground black pepper to taste"
+        ],
+        "category": "starters",
+        "image": "fig-g28f7fee3c_1920.jpg",
+      },
+
+      {
+        "name":"Hot and Cold Chicken and Spinach Salad",
+        "desc": `  Step 1
+Rinse chicken and pat dry. Slice crosswise into 1/4-inch-thick strips.
+Advertisement
+
+Step 2
+Put spinach in a large, shallow serving or mixing bowl. In a small bowl, mix vinegar, 3 tablespoons olive oil, capers, and mustard.
+
+Step 3
+Set a 10- to 12-inch frying pan over high heat. When pan is hot, add remaining tablespoon olive oil and the chicken. Stir often until chicken is no longer pink in center of thickest part (cut to test), about 4 minutes. Add onion and garlic and stir until onion begins to soften slightly, about 1 minute. Add vinaigrette and stir until hot, about 30 seconds. Pour over spinach.
+
+Step 4
+Sprinkle tomatoes on top and mix; add salt and pepper to taste.
+Source: https://www.myrecipes.com/recipe/hot-cold-chicken-spinach-salad`,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+          "1 pound boned, skinned chicken breast halves",
+          "3 quarts baby spinach leaves (12 oz.), rinsed and crisped",
+          "¼ cup white wine vinegar",
+          "¼ cup olive oil",
+          "1 tablespoon drained canned capers",
+          "1 tablespoon Dijon mustard",
+          "1 red onion (about 6 oz.), peeled and thinly sliced",
+          "2 cloves garlic, peeled and minced",
+          "1 cup cherry tomatoes, rinsed, stemmed, and cut in half",
+          "Salt and pepper"
+        ],
+        "category": "starters",
+        "image": "spinach-g8fdd97dc0_1920.jpg",
+      },
+
+
+
+
+      {
+        "name":"",
+        "desc": ` `,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+          
+        ],
+        "category": "",
+        "image": "",
+      },

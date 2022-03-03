@@ -1,46 +1,47 @@
 
+
 {
-"name":"Grilled Veggie Skewers",
-"desc": `
-Step 1
-Soak skewers in water for 10 to 20 minutes.
-
-Step 2
-Preheat grill for medium heat and lightly oil the grate. Alternately thread zucchini slices, yellow squash slices, mushrooms, onion, tomatoes, pineapple, and bell pepper onto the skewers.
-
-Step 3
-Whisk olive oil, basil, oregano, salt, and black pepper in a bowl; brush mixture over vegetables.
-
-Step 4
-Cook skewers on preheated grill until vegetables are tender, turning and basting vegetables with olive oil mixture occasionally, 10 to 15 minutes. 
-Source: https://www.allrecipes.com/recipe/229166/grilled-veggie-skewers/`,
+"name":"",
+"desc": ` `,
 "email": "naomi.ninnig@gmail.com", 
 "ingredients": [
-   "8 wooden or bamboo skewers",
+   " ½ cup butter",
 
-"2 medium zucchinis, cut into 1-inch slices",
-"2 medium yellow squash, cut into 1-inch slices",
+"1 cup white sugar",
 
-"½ pound whole fresh mushrooms",
+"2 eggs"
 
-"1 medium red onion, cut into chunks",
+"1 teaspoon vanilla extract"
 
-"12 cherry tomatoes",
+"⅓ cup unsweetened cocoa powder"
 
-"1 fresh pineapple, cut into chunks",
+"½ cup all-purpose flour"
 
-"1 medium red bell pepper, cut into chunks",
+"¼ teaspoon salt"
 
-"⅓ cup olive oil",
-
-"1 ½ teaspoons dried basil",
-
-"¾ teaspoon dried oregano"
+"¼ teaspoon baking powder"
 ],
-"category": "BBQ & Grill",
-"image": "vegetable-skewer-ge53418ac1_1920.jpg",
+"category": "",
+"image": "",
 },
-
+{
+"name":"",
+"desc": ` `,
+"email": "naomi.ninnig@gmail.com", 
+"ingredients": [
+],
+"category": "",
+"image": "",
+},
+{
+"name":"",
+"desc": ` `,
+"email": "naomi.ninnig@gmail.com", 
+"ingredients": [
+],
+"category": "",
+"image": "",
+},
 {
 "name":"",
 "desc": ` `,

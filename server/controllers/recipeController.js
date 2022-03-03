@@ -542,7 +542,164 @@ async function insertDommyRecepiesData(){
   "category": "BBQ & Grill",
   "image": "vegetable-skewer-ge53418ac1_1920.jpg",
   },
-
+  {
+    "name":"Muesli Breakfast Bowl",
+    "desc": `Quick Eating Muesli
+    Place ½ cup of muesli into each bowl. Add ⅓ cup milk, top with fruit and other toppings if desired.
+    Soaked Muesli
+    Add 1 cup muesli to a medium-sized bowl, add ⅔ cup milk and soak 20 minutes or overnight. The longer they soak, the more tender the muesli will be. Serve topped with fruit and additional toppings.
+    Hot Muesli
+    Add ½ cup of muesli into each bowl. Add ½ cup hot water to each bowl. Allow to steep for about 3 minutes until liquid is absorbed and tender. Top with berries and other toppings.
+    Source: https://www.jessicagavin.com/berry-muesli-breakfast-bowls/ `,
+    "email": "naomi.ninnig@gmail.com", 
+    "ingredients": [
+        "1 cup muesli",
+        "⅔ cup milk, almond, cashew, coconut, rice, or soy",
+         "1 cup berries, strawberry, raspberry, blackberry or blueberry"
+    ],
+    "category": "Breakfest",
+    "image": "bowl-of-fruit-g806ed3709_1920.jpg",
+    },
+    {
+      "name":"Fried Egg and Avocado Toasts",
+      "desc": ` Step 1
+      Heat a large nonstick skillet over medium heat. Add oil to pan; swirl to coat. Crack eggs into pan; cook 2 minutes. Cover and cook 2 minutes or until desired degree of doneness.
+      
+      Step 2
+      Spread one-fourth of mashed avocado evenly over each toast slice. Arrange 1/4 cup sprouts over mashed avocado on each toast slice. Top each toast slice with 1 fried egg. Sprinkle eggs evenly with salt and black pepper. Top each assembled avocado toast with 2 tablespoons fresh salsa.
+      Source: https://www.myrecipes.com/recipe/fried-egg-avocado-toasts`,
+      "email": "naomi.ninnig@gmail.com", 
+      "ingredients": [
+        "1 teaspoon olive oil",
+        "4 large eggs",
+        "1 peeled ripe avocado, mashed",
+        "4 (1-ounce) slices hearty whole-grain bread, toasted",
+        "1 cup alfalfa sprouts",
+        "¼ teaspoon kosher salt",
+        "¼ teaspoon freshly ground black pepper",
+        "½ cup refrigerated fresh salsa",
+      ],
+      "category": "Breakfest",
+      "image": "eggs-g6437247d6_1920.jpg",
+    },
+    {
+      "name":"Perfect Omelet",
+      "desc": ` In a medium bowl, beat eggs until no whites remain, then season with salt, pepper, and a pinch red pepper flakes.
+      In a medium non-stick skillet over medium heat, melt butter. Pour in eggs and tilt pan so eggs fully cover the entire pan. As eggs start to set, use a rubber spatula to drag cooked edges into center of pan. Tilt pan to let uncooked egg fall to the edge of the pan. 
+      Once the bottom is set, but top is still a little wet, sprinkle cheese and chives on one half of omelet. Fold other side over cheese and slide omelet onto a plate.  
+      Source: https://www.delish.com/cooking/recipe-ideas/a24892843/how-to-make-omelet/ `,
+      "email": "naomi.ninnig@gmail.com", 
+      "ingredients": [
+        "2 large eggs",
+        "Kosher salt",
+        "Freshly ground black pepper",
+        "Pinch red pepper flakes",
+        "2 tbsp. butter",
+        "1/4 c. shredded cheddar",
+        "2 tbsp. freshly chopped chives",
+      ],
+      "category": "Breakfest",
+      "image": "omelette-gf65f7d0a7_1920.jpg",
+    },
+    {
+      "name":"Smoked Salmon Bagel",
+      "desc": ` Add the cream cheese, lemon juice, dill and salt and pepper to a bowl.
+      Mix well to combine.
+      Spread the cheese mixture on to half of a toasted bagel.
+      Top with cucumber, smoked salmon, capers and red onions and close the bagel.
+      Source:https://feelgoodfoodie.net/recipe/smoked-salmon-bagel/ `,
+      "email": "naomi.ninnig@gmail.com", 
+      "ingredients": [
+        "Bagel: You can use your favorite bagels for this recipe. Plain works well or you can try sesame seed bagels.",
+        "Smoked Salmon: Look for high quality smoked salmon from the Norwegian area. Most importantly, make sure it has no coloring and opt for natural smoked salmon for the best flavor. You can substitute with cooked salmon, but it would be very different taste.",
+        "Cream cheese: Use full fat cream cheese for these bagels for the best flavor, but you can use a low fat one if you prefer.",
+        "Toppings: Use any toppings like, cucumbers, red onions, capers as pictured blow. Or you even add avocado, eggs, tomatoes or even olives!"
+      ],
+      "category": "Breakfest",
+      "image": "sandwich-g393e16789_1920.jpg",
+    },
+    {
+      "name":"Apple Pie From Scratch",
+      "desc": `In a medium-sized bowl, add the flour and salt. Mix with fork until combined.
+      Add in cubed butter and break up into flour with a fork. Mixture will still have lumps about the size of small peas.
+      Gradually add the ice water and continue to mix until the dough starts to come together. You may not need all of the water, but if the dough is too dry then add more. The dough should not be very tacky or sticky.
+      Work the dough together with your hands and turn out onto a surface. Work into a ball and cover with cling wrap. Refrigerate.
+      Peel the apples, then core and slice.
+      In a bowl, add the sliced apples, sugar, flour, salt, cinnamon, nutmeg, and juice from the lemon.
+      Mix until combined and all apples are coated. Refrigerate.
+      Preheat the oven to 375°F (200°C).
+      On a floured surface, cut the pie dough in half and roll out both halves until round and about ⅛-inch (3 mm) thick.
+      Roll the dough around the rolling pin and unroll onto a pie dish making sure the dough reaches all edges. Trim extra if necessary.
+      Pour in apple filling mixture and pat down.
+      Roll the other half of the dough on top.
+      Trim the extra dough from the edges and pinch the edges to create a crimp. Make sure edges are sealed together.
+      Brush the pie with the beaten egg and sprinkle with the sugar.
+      Cut four slits in the top of the pie to create a vent.
+      Bake pie for 50-60 minutes or until the crust is golden brown and no greyish or undercooked pastry remains.
+      Allow to cool completely before slicing.
+      Top with ice cream and serve.
+      Enjoy!
+      Source: https://tasty.co/recipe/apple-pie-from-scratch `,
+      "email": "naomi.ninnig@gmail.com", 
+      "ingredients": [
+          "PIE DOUGH",
+      
+      "2 ½ cups flour(315 g)",
+      "1 teaspoon salt",
+      "1 ½ sticks butter, 1 1/2 sticks, cold, cubed",
+      "8 tablespoons ice water, or as needed",
+      "FILLING",
+      
+      "2 ½ lb granny smith apple(1 kg), cored, sliced, peeled",
+      "¾ cup sugar(150 g)",
+      "2 tablespoons flour",
+      "½ teaspoon salt",
+      "1 teaspoon cinnamon",
+      "¼ teaspoon nutmeg",
+      "½ lemon",
+      "1 egg, beaten",
+      "1 tablespoon sugar"
+      ],
+      "category": "Desserts",
+      "image": "apple-pie-g8a1fd8ad6_1920.jpg",
+      },
+      {
+        "name":"the perfect cheese board",
+        "desc": `Start with the board. Cheese boards are typically assembled on a slate or wooden tray, which may be square, rectangular, or round. But if you don't already own one, don't feel like you need to go out and buy one. You can also use a plate, a cutting board, or even a baking sheet. Any flat surface will work.
+        Select the cheeses. Try to include a variety of flavors and textures by selecting cheeses from different families (see below).
+        Add some charcuterie...aka cured meats. Prosciutto, salami, sopressata, chorizo, or mortadella are all good options.
+        Add some savory. Think olives, pickles, roasted peppers, artichokes, tapenades, almonds, cashews, or spicy mustards.
+        Add some sweet. Think seasonal and dried fruits, candied nuts, preserves, honey, chutney, or even chocolate.
+        Offer a variety of breads. Sliced baguette, bread sticks, and a variety of crackers in different shapes, sizes, and flavors.
+        Finish it off with some garnishes. This is a great way to give your cheese board a seasonal touch. Use edible flowers, fresh herbs, or additional fruits to give your board the look and feel you want. 
+        Source: https://www.lemontreedwelling.com/how-to-make-the-perfect-cheese-board/ `,
+        "email": "naomi.ninnig@gmail.com", 
+        "ingredients": [
+        "1 wedge brie cheese",
+        "1 wedge blue cheese",
+        "1 wedge aged cheddar",
+        "1 wedge alpine cheese",
+        "1 wedge flavored cheese",
+        "1 apple, sliced",
+        "2-3 bunches grapes",
+        "1/3 c. olives",
+        "1/3 c. cornichons",
+        "1/3 c. dried apricots",
+        "1/3 c. dried cherries",
+        "1/4 cup whole salted cashews",
+        "1/4 cup whole almonds",
+        "1/4 cup whole pecans",
+        "2 ounces prosciutto",
+        "2 ounces salami",
+        "2-4 Tbsp. whole grain mustard",
+        "2-4 Tbsp. honey",
+        "2-4 Tbsp. preserves",
+        "bread slices, crackers, and breadsticks"
+        ],
+        "category": "Desserts",
+        "image": "cheese-platter-g2418c34dc_1920.jpg",
+        },
+        
 
          
     ]);

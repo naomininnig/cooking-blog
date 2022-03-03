@@ -28,7 +28,7 @@ exports.homepage = async(req, res) => {
     const dessert = await Recipe.find({ 'category': 'Dessert'}).limit(limitNumber);
 
 
-    const food = { latest, bbq, mains, pasta, snacks, starters };
+    const food = { latest, bbq, mains, pasta, snacks, starters, breakfast, dessert };
 
     res.render('index', {title: ' Cooking Blog | Home', categories, food});
   } catch (error) {

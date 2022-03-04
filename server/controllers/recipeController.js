@@ -68,6 +68,17 @@ exports.searchRecipe = async(req, res) => {
   
 }
 
+/* GET /explore-latest */
+exports.exploreLatest = async(req, res) => {
+  try {
+   const limitNumber = 20;
+   const recipe = await Recipe.find({}).sort({_id:-1}).limit(limitNumber)
+    res.render('explore-latest', {title: ' Cooking Blog | Recipe', recipe});
+  } catch (error) {
+    res.status(400).send({message: error.message || "Oopsi, error :("})
+  }
+}
+
 //async function insertDommyRecepiesData(){
    //try{
      //await Recipe.insertMany([

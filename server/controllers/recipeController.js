@@ -79,6 +79,20 @@ exports.exploreLatest = async(req, res) => {
   }
 }
 
+
+/* GET /explore-random */
+exports.exploreRandom = async(req, res) => {
+  try {
+    const count = await Recipe.find().countDocuments();
+    const random = Math.floor(Math.random()* count)
+    const recipe = await Recipe.findOne().skip(random).exec()
+
+    res.render('explore-random', {title: ' Cooking Blog | Recipe', recipe});
+  } catch (error) {
+    res.status(400).send({message: error.message || "Oopsi, error :("})
+  }
+}
+
 //async function insertDommyRecepiesData(){
    //try{
      //await Recipe.insertMany([

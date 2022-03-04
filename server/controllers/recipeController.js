@@ -56,6 +56,17 @@ exports.exploreRecipe = async(req, res) => {
   }
 }
 
+/* POST /search */
+exports.searchRecipe = async(req, res) => {
+  try {
+    const searchTerm = req.body.searchTerm;
+    const recipe = await Recipe.find({ $text: { $search: searchTerm, $diacriticSensitive: true}})
+    res.render('search', {title: ' Cooking Blog | Search', recipe });
+  } catch (error) {
+    res.status(400).send({message: error.message || "Oopsi, error :("})
+  }
+  
+}
 
 //async function insertDommyRecepiesData(){
    //try{

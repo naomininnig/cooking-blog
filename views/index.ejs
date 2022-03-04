@@ -31,40 +31,6 @@
           <% }) %>
       <% } %>
   
-  <!-- JUST TO REMEMBER WHAT CATEGORY YOU CREATED - WE NEED TO PUT IN THE DATABASE!!!
-      WE DONT NEED THESE LINES NO MORE :)
-
-      <a href="#" class="col text-center category__link">
-          <div class="category__img shadow">
-              <img src="/img/node_js_project/bbq/burger-gef9cbf2b8_1920.jpg" alt="Categories-bbq" loading="lazy">
-          </div>
-          <div class="pt-1">Grill & BBQ</div>
-      </a> -->
-  <!-- 
-      <a href="#" class="col text-center category__link">
-          <div class="category__img shadow">
-              <img src="/img/node_js_project/breakfest/georgian-eggs-gf63a6d7f8_1920.jpg" alt="Categories-breakfest" loading="lazy">
-          </div>
-          <div class="pt-1">Breakfest</div>
-      </a>
-      <a href="#" class="col text-center category__link">
-          <div class="category__img shadow">
-              <img src="/img/node_js_project/pasta/pasta-g81d02b0f4_1920.jpg" alt="Categories-PASTA" loading="lazy">
-          </div>
-          <div class="pt-1">Pasta</div>
-      </a>
-      <a href="#" class="col text-center category__link">
-          <div class="category__img shadow">
-              <img src="/img/node_js_project/snacks/pizza-g77c6a5079_1920.jpg" alt="Categories-pizza" loading="lazy">
-          </div>
-          <div class="pt-1">Snacks</div>
-      </a>
-      <a href="#" class="col text-center category__link">
-          <div class="category__img shadow">
-              <img src="/img/node_js_project/desserts/creme-brulee-g434e311f3_1920.jpg" alt="Categories-desserts" loading="lazy">
-          </div>
-          <div class="pt-1">Dessert</div>
-      </a> -->
       <a href="/categories" class="col text-center category__link">
           <div class="category__img shadow">
               <img src="/img/node_js_project/mains/roast-goose-g00e051a48_1920.jpg" alt="Categories-view all" loading="lazy">
@@ -76,8 +42,7 @@
   <!-- Categories end-->
   
   <!-- Latest start-->
-  
-  <section class="pb-4 pt-4">
+    <section class="pb-4 pt-4">
    <div class="d-flex mb-2 align-items-center">
     <h2>Latest Recipes</h2>
     <a href="/explore-latest" class="ms-auto">View More</a>
@@ -104,26 +69,26 @@
   <!-- BBQ & Grill Section start -->
   <section class="pb-4 pt-4">
     <div class="d-flex mb-2 align-items-center">
-     <h2>BBQ & Grill Recipes</h2>
-     <a href="/categories/bbq" class="ms-auto">View More</a>
+        <h2>BBQ & Grill Recipes</h2>
+        <a href="/categories/bbq" class="ms-auto">View More</a>
     </div>
    
     <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
-        <% if(typeof food.bbp != '') { %>
-        <% food.bbq.forEach(function(recipe, index) { %>
-         <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
-           <div class="category__img category__img--large shadow">
-               <img src="/uploads/<%= recipe.image %> " alt="<%= recipe.name %>" loading="lazy">
-           </div>
-           <div class="pt-1"><%= recipe.name %></div>
-        </a>
-        <% }) %>
-        <% } else { %>
-            <p>No items found.</p>
-            <% } %>
-    </div>
-      </section>
-
+            <% if(typeof food.bbp != '') { %>
+            <% food.bbq.forEach(function(recipe, index) { %>
+            <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
+         <div class="category__img category__img--large shadow">
+            <img src="/uploads/<%= recipe.image %> " alt="<%= recipe.name %>" loading="lazy">
+        </div>
+        <div class="pt-1"><%= recipe.name %></div>
+            </a>
+            <% }) %>
+            <% } else { %>
+                <p>No items found.</p>
+                <% } %>
+        </div>
+        
+    </section>
    <!-- BBQ & Grill Section end -->
     
    <!-- Main Section start -->
@@ -146,7 +111,7 @@
       </section>
    <!-- Mains Section end -->
 
-<!-- Starters Section start -->
+    <!-- Starters Section start -->
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Starters Recipes</h2>
@@ -166,9 +131,9 @@
                 <p>No items found.</p>
                 <% } %>
         </div>
-<!-- Starters Section end -->
+    <!-- Starters Section end -->
 
-<!-- Snacks Section start -->
+    <!-- Snacks Section start -->
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Snacks Recipes</h2>
@@ -188,9 +153,9 @@
                 <p>No items found.</p>
                 <% } %>
         </div>
-<!-- Snacks Section end -->
+    <!-- Snacks Section end -->
 
-<!-- Breakfast Section start -->
+    <!-- Breakfast Section start -->
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Breakfast Recipes</h2>
@@ -210,9 +175,9 @@
                 <p>No items found.</p>
                 <% } %>
         </div>
-<!-- Breakfast Section end -->
+    <!-- Breakfast Section end -->
 
-<!-- Dessert Section start -->
+    <!-- Dessert Section start -->
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Dessert Recipes</h2>
@@ -232,12 +197,11 @@
                 <p>No items found.</p>
                 <% } %>
         </div>
-<!-- Dessert Section end -->
+    <!-- Dessert Section end -->
+        
+    <!-- Submit start-->
   
-<!-- Submit start-->
-  
-  <section class="px-4 py-5 my-5 text-center">
-
+    <section class="px-4 py-5 my-5 text-center">
       <img src="/img/node_js_project/share_landsc.jpg" class="d-block mx-auto mb-4 img-fluid" alt="Publish your recipe for FREE today" width="1000" height="408" loading="lazy">
       <h1 class="display-5 fw-bold">Publish your recipe for FREE today</h1>
       <div class="col-lg-6 mx-auto">
@@ -249,7 +213,5 @@
           </dic>
       </div>
   </section>
-  
-  
   <!-- Submit end-->
 

@@ -93,6 +93,15 @@ exports.exploreRandom = async(req, res) => {
   }
 }
 
+/* GET /submit */
+exports.submitRecipe = async(req, res) => {
+  try {
+    res.render('submit-recipe', {title: ' Cooking Blog | Submit Recipe'});
+  } catch (error) {
+    res.status(400).send({message: error.message || "Oopsi, error :("})
+  }
+}
+
 //async function insertDommyRecepiesData(){
    //try{
      //await Recipe.insertMany([

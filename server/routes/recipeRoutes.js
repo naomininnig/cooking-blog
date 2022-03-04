@@ -10,7 +10,7 @@ const recipeController = require('../controllers/recipeController');
 router.get('/', recipeController.homepage);
 router.get('/categories', recipeController.exploreCategories)
 router.get('/recipe/:id', recipeController.exploreRecipe)
-
+router.get('/categories/:id', recipeController.exploreCategoriesById)
 
 
 module.exports = router;

@@ -33,6 +33,18 @@ exports.exploreCategories = async(req, res) => {
   }
 }
 
+/* categories by ID  GET */
+exports.exploreCategoriesById = async(req, res) => {
+  try {
+    let categoryId = req.params.id
+    const limitNumber = 20;
+    const categoryById= await Recipe.find({'category': categoryById}).limit(limitNumber)
+    res.render('categories', {title: ' Cooking Blog | Categories', categoryById});
+  } catch (error) {
+    res.status(400).send({message: error.message || "Oopsi, error :("})
+  }
+}
+
 /* RECIPE PAGE GET /recipes/:id */
 exports.exploreRecipe = async(req, res) => {
   try {

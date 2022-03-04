@@ -37,9 +37,7 @@ exports.exploreCategories = async(req, res) => {
 exports.exploreRecipe = async(req, res) => {
   try {
    const recipeId = req.params.id;
-
    const recipe = await Recipe.findById(recipeId)
-
     res.render('recipe', {title: ' Cooking Blog | Recipe', recipe});
   } catch (error) {
     res.status(400).send({message: error.message || "Oopsi, error :("})

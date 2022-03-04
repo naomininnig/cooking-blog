@@ -95,12 +95,20 @@ exports.exploreRandom = async(req, res) => {
 
 /* GET /submit */
 exports.submitRecipe = async(req, res) => {
-  try {
-    res.render('submit-recipe', {title: ' Cooking Blog | Submit Recipe'});
-  } catch (error) {
-    res.status(400).send({message: error.message || "Oopsi, error :("})
-  }
+  const infoErrorObj = req.flash('infoErrors');
+  const infoSubmitObj = req.flash('infoSubmit')
+  res.render('submit-recipe', {title: ' Cooking Blog | Submit Recipe', infoErrorObj, infoSubmitObj});
+
 }
+
+/* POST /submit */
+exports.submitRecipeOnPost = async(req, res) => {
+
+  req.flash('infoSubmit', "Recipe has been added.")
+  res.redirect('/submit-recipe');
+}
+
+
 
 //async function insertDommyRecepiesData(){
    //try{

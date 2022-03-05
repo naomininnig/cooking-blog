@@ -70,7 +70,7 @@
   <section class="pb-4 pt-4">
     <div class="d-flex mb-2 align-items-center">
         <h2>BBQ & Grill Recipes</h2>
-        <a href="/categories/bbq" class="ms-auto">View More</a>
+        <a href="/categories/BBQ%20&%20Grill" class="ms-auto">View More</a>
     </div>
    
     <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
@@ -95,7 +95,7 @@
    <section class="pb-4 pt-4">
     <div class="d-flex mb-2 align-items-center">
         <h2>Main Recipes</h2>
-        <a href="/categories/main" class="ms-auto">View More</a>
+        <a href="/categories/Mains" class="ms-auto">View More</a>
     </div>
        <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
         <% if(food.mains != '') { %>
@@ -115,7 +115,7 @@
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Starters Recipes</h2>
-            <a href="/categories/starters" class="ms-auto">View More</a>
+            <a href="/categories/Starters" class="ms-auto">View More</a>
         </div>
            <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
             <% if(food.starters != '') { %>
@@ -137,7 +137,7 @@
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Snacks Recipes</h2>
-            <a href="/categories/snacks" class="ms-auto">View More</a>
+            <a href="/categories/Snacks" class="ms-auto">View More</a>
         </div>
            <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
             <% if(food.snacks != '') { %>
@@ -159,7 +159,7 @@
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Breakfast Recipes</h2>
-            <a href="/categories/breakfast" class="ms-auto">View More</a>
+            <a href="/categories/Breakfast" class="ms-auto">View More</a>
         </div>
            <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
             <% if(food.breakfast != '') { %>
@@ -177,11 +177,33 @@
         </div>
     <!-- Breakfast Section end -->
 
+        <!-- Pasta Section start -->
+        <section class="pb-4 pt-4">
+            <div class="d-flex mb-2 align-items-center">
+                <h2>Pasta Recipes</h2>
+                <a href="/categories/Pasta" class="ms-auto">View More</a>
+            </div>
+               <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+                <% if(food.pasta != '') { %>
+                <% food.pasta.forEach(function(recipe, index) { %>
+                 <a href="/recipe/<%= recipe._id %>" class="col text-center category__link">
+                   <div class="category__img category__img--large shadow">
+                       <img src="/uploads/<%= recipe.image %> " alt="<%= recipe.name %>" loading="lazy">
+                   </div>
+                   <div class="pt-1"><%= recipe.name %></div>
+                </a>
+                <% }) %>
+                <% } else { %>
+                    <p>No items found.</p>
+                    <% } %>
+            </div>
+        <!-- Pasta Section end -->
+
     <!-- Dessert Section start -->
       <section class="pb-4 pt-4">
         <div class="d-flex mb-2 align-items-center">
             <h2>Dessert Recipes</h2>
-            <a href="/categories/dessert" class="ms-auto">View More</a>
+            <a href="/categories/Desserts" class="ms-auto">View More</a>
         </div>
            <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
             <% if(food.dessert != '') { %>

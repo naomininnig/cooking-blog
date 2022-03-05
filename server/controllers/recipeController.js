@@ -103,9 +103,41 @@ exports.submitRecipe = async(req, res) => {
 
 /* POST /submit */
 exports.submitRecipeOnPost = async(req, res) => {
+  try {
+    let imageUploadFile;
+    let uploadPath;
+    let newImageName;
 
+    if(!req.files || Object.keys(req.files).length === 0){
+      console.log('No files were uploaded')
+    } else{
+      imageUploadFile = req.files.image;
+      newImageName = Date.now() + imageUploadFile.name;
+      uploadPath = require('path').resolve('./') + '/public/uploads/' + newImageName;
+
+      imageUploadFile.mv(uploadPath, function(err){
+        if(err) return res.status(400).send(err)
+      })
+    }
+
+    const newRecipe = new Recipe({
+      name: req.body.name,
+      desc: req.body.desc,
+      email: req.body.email,
+      ingredients: req.body.ingredients,
+      category: req.body.category,
+      image: newImageName
+    });
+
+    await newRecipe.save();
+    
   req.flash('infoSubmit', "Recipe has been added.")
   res.redirect('/submit-recipe');
+  } catch (error) {
+    req.flash('infoError', error)
+    res.redirect('/submit-recipe')
+  }
+
 }
 
 
